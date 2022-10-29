@@ -4,13 +4,6 @@
 |-|-|
 |xxxxx|xxxxx|
 
-<pre id="branches">
+[build1](./build1)
 
-<a href="newfolder/" title="newfolder/">newfolder/</a>
-
-<a href="HTTPClient/" title="HTTPClient/">HTTPClient/</a>
-
-<a href="HTTPClient/" title="HTTPClient/">HTTPClient/</a>
-
-
-</pre>
+[build2](./build2)
